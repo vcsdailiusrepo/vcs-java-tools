@@ -1,4 +1,4 @@
-package lt.vcs.dailius.java.tools;
+package io.github.vcsdailiusrepo;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
